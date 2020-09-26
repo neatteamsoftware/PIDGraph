@@ -3,7 +3,9 @@
     "name": "PIDGraph",
     "version": "1.0.0",
     "uuid": "786fec83-ce54-40c7-8bc7-927bd8b8dfcb",
-    "mavenUrls": [],
+    "mavenUrls": [
+        "https://github.com/neatteamsoftware/PIDGraph"
+    ],
     "jsonUrl": [
         "https://github.com/neatteamsoftware/PIDGraph/PIDGraph.json"
     ],
